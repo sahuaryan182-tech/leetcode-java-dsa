@@ -30,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahuaryan182-tech/stone-game/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
