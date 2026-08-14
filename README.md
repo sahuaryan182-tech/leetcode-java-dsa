@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
