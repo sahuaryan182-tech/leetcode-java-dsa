@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
