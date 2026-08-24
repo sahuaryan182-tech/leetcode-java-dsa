@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0052-n-queens-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
