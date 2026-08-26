@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0231-power-of-two) |
