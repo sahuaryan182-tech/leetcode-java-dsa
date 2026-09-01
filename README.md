@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
