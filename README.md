@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
