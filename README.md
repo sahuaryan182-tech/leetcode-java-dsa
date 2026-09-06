@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0234-palindrome-linked-list) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
