@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0282-expression-add-operators) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1922-count-good-numbers) |
+| [3870-count-commas-in-range](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
