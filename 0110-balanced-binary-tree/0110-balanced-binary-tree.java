@@ -15,36 +15,49 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        //if node is null return true
-        if(root == null) return true;
+        return FindHeight(root) != -1;
+        // //if node is null return true
+        // if(root == null) return true;
 
-        //figure out the left & right subtree height
-        int lh = GetHight(root.left);
-        int rh = GetHight(root.right);
+        // //figure out the left & right subtree height
+        // int lh = GetHight(root.left);
+        // int rh = GetHight(root.right);
 
-        //if their(left & right) hight abs diffrence is greator then 1 return false 
-        if(Math.abs(rh - lh) > 1) return false;
+        // //if their(left & right) hight abs diffrence is greator then 1 return false 
+        // if(Math.abs(rh - lh) > 1) return false;
 
-        //recusivly cheaked the left subtree and the call the funtion itself
-        boolean left = isBalanced(root.left);
-        //recusivly chekaed the rigth subtree and call the funtion itself
-        boolean right = isBalanced(root.right);
+        // //recusivly cheaked the left subtree and the call the funtion itself
+        // boolean left = isBalanced(root.left);
+        // //recusivly chekaed the rigth subtree and call the funtion itself
+        // boolean right = isBalanced(root.right);
 
-        //if any subtree is leaf node give falase either left subtree leafnode or right subtree leaftree node , means diffrence is grator then 1 , return false
-        if(!left || !right) return false;
+        // //if any subtree is leaf node give falase either left subtree leafnode or right subtree leaftree node , means diffrence is grator then 1 , return false
+        // if(!left || !right) return false;
 
-        //f above non of conditions is matched(true-> means fasle) return true
-        return true;
+        // //f above non of conditions is matched(true-> means fasle) return true
+        // return true;
 
 
     }
-    //funtion to calculate the right & left subtree height
-    private int GetHight(TreeNode root){
+    int FindHeight(TreeNode root){
         if(root == null) return 0;
 
-        int lh = GetHight(root.left);
-        int rh = GetHight(root.right);
+        int lh = FindHeight(root.left);
+        int rh = FindHeight(root.right);
+
+        //condion if is not Balanced BT return -1
+        if(lh == -1 || rh == -1) return -1;
+        if(Math.abs(lh-rh) > 1) return -1;
 
         return 1 + Math.max(lh, rh);
     }
+    // //funtion to calculate the right & left subtree height
+    // private int GetHight(TreeNode root){
+    //     if(root == null) return 0;
+
+    //     int lh = GetHight(root.left);
+    //     int rh = GetHight(root.right);
+
+    //     return 1 + Math.max(lh, rh);
+    // }
 }
