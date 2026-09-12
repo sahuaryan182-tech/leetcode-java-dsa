@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 ## Backtracking
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2236-root-equals-sum-of-children) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2236-root-equals-sum-of-children) |
