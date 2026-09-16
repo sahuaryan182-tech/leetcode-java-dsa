@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
