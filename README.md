@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0282-expression-add-operators) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -492,4 +496,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
