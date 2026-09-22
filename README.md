@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0078-subsets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
