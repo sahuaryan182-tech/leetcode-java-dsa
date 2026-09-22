@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
+| [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 ## Doubly-Linked List
 |  |
 | ------- |
