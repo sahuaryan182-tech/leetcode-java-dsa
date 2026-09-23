@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
+| [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 ## Doubly-Linked List
