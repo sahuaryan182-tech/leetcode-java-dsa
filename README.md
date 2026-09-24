@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Minimax
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Doubly-Linked List
