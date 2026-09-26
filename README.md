@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Floyd's Cycle Finding Algorithm
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
