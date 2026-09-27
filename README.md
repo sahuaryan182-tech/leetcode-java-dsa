@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/sahuaryan182-tech/stone-game/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0846-hand-of-straights](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Doubly-Linked List
