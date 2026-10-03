@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0282-expression-add-operators) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0131-palindrome-partitioning) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
