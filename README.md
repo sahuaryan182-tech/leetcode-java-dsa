@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0231-power-of-two) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0173-binary-search-tree-iterator) |
@@ -593,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0023-merge-k-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
