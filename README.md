@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 ## Quicksort
@@ -600,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -608,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
