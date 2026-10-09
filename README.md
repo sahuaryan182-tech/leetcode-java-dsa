@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0079-word-search) |
