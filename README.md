@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quicksort
 |  |
 | ------- |
