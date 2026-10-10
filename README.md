@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Doubly-Linked List
 |  |
