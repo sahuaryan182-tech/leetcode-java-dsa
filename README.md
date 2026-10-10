@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0678-valid-parenthesis-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/3005-count-elements-with-maximum-frequency) |
