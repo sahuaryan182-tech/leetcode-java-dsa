@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0031-next-permutation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0027-remove-element) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0135-candy) |
