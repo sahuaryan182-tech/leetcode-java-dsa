@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0099-recover-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0222-count-complete-tree-nodes) |
