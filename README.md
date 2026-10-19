@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0217-contains-duplicate) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0904-fruit-into-baskets) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/1004-max-consecutive-ones-iii) |
