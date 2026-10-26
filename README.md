@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0040-combination-sum-ii) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahuaryan182-tech/leetcode-java-dsa/tree/master/0099-recover-binary-search-tree) |
