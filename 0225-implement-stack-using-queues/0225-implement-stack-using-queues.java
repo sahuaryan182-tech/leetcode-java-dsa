@@ -1,36 +1,26 @@
 class MyStack {
     Queue<Integer> q;
-
     public MyStack() {
-        q =  new LinkedList<>();
-        
+        q = new LinkedList<>();
     }
     
     public void push(int x) {
-        int s = q.size();
-        //add element
         q.offer(x);
-
-        //front/frist move element before new element back or behind
-        for(int i = 0; i<s; i++){
+        for(int i = 0; i<q.size()-1; i++){
             q.offer(q.poll());
         }
-        
     }
     
     public int pop() {
-       return q.poll();
-        
+        return q.poll();
     }
     
     public int top() {
         return q.peek();
-        
     }
     
     public boolean empty() {
         return q.isEmpty();
-        
     }
 }
 
