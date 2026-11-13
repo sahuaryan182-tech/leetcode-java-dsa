@@ -35,6 +35,5 @@ class Solution {
 
         //return the head
         return head;
-
     }
 }
